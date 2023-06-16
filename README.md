@@ -1,5 +1,5 @@
 # Top-Courses-page
-
+This is a courses page creating by ReactJS and TailwindCSS. Here you can show filter the data different topics wise.
 
 ## Demo of the webPage
 
