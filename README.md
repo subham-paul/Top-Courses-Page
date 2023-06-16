@@ -3,4 +3,4 @@
 
 ## Demo of the webPage
 
-![Screenshot from 2023-06-16 11-37-42](https://github.com/subham-paul/Top-Courses-page/assets/52645265/4e7c7422-4fb5-4cd1-86e3-fa2b15b45783)
+![ezgif com-video-to-gif (1)](https://github.com/subham-paul/Top-Courses-page/assets/52645265/e7e8ceb9-8001-459f-a251-b2d16eb13953)
